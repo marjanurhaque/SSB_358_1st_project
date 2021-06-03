@@ -1,1 +1,1 @@
-# SSB_358_1st_project
+# SSB 358 1st project
